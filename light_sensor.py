@@ -9,7 +9,7 @@ a switch for discharging and charging the capacitor. Class attributes
 are observer time values for how long the capacitor took to charge up, which can 
 be used to detect the amount of light. 
 
-Note: these time values are not universalsince they were obtain in specific 
+Note: these time values are not universal since they were obtain in specific 
 environment with a certain amount of light. Also, call GPIO.setmode(GPIO.BCM)
 before creating an instance of this class.
 """
